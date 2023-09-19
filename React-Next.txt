@@ -1,0 +1,74 @@
+PS/BDO
+
+Next.js:
+
+•	https://nextjs.org/docs
+
+
+Node.js – Azure:
+•	https://learn.microsoft.com/en-us/azure/app-service/quickstart-nodejs
+
+•	https://azure.microsoft.com/pt-br/products/cosmos-db
+
+•	cosmos db (banco de dados azure)  - conexão do banco com o web-app
+
+
+React:
+•	https://react.dev/learn
+
+
+Bosch - Next + React:
+•	https://frok.ui.bosch.tech/
+
+
+•	Usuario: bosch
+	Senha: uneo2019
+
+
+
+
+Next + React
+
+React é a biblioteca para construção de aplicações frontend com Javascript.
+
+Tipo de aplicação conhecido como SPA (Single Page Aplication) – Aplicação de página única, ou seja, um arquivo html para sua aplicação inteira e o resto é gerado pelo Javascript.
+
+Next veio para ter um framework, uma estrutura que construa sua aplicação, framework React para aplicação.
+Criação de conteúdo estático e do lado do servidor.
+
+Trabalha com três tipos de renderização:
+•	Cliente
+•	Server
+•	Estático
+Principais Características  
+
+Alguns dos principais Next.js as características incluem: 
+Recurso 	Descrição 
+Encaminhamento 
+Um sistema de arquivos baseado roteador construído no topo de Componentes de  Servidor que oferece suporte a layouts, aninhada de roteamento, o carregamento de estados, tratamento de erros, e muito mais. 
+Renderização            
+Do lado do cliente e o Processamento do lado do Servidor com os Componentes de Cliente e Servidor. Mais otimizada com a Estática e a Dinâmica de Processamento no servidor com Next.js. Streaming na Borda e Node.js tempos de execução. 
+Busca De Dados 
+Simplificado de busca de dados com async/await em Componentes de Servidor, e um longo fetch API para solicitação de memoization, o cache de dados e revalidação. 
+Estilo 
+Suporte para o seu estilo preferido métodos, incluindo CSS Módulos, Tailwind CSS, e CSS-no-JS 
+Otimizações 
+Imagem, tipos de Letra, e o Script de Otimizações para melhorar o seu aplicativo do Núcleo Web órgãos vitais e Experiência do Usuário. 
+O TypeScript 
+Suporte melhorado para Transcrito, com o melhor tipo de verificação e mais eficiente de compilação, bem como os usos Transcrito Plugin e tipo verificador. 
+
+
+Criando o Projeto:
+
+•	Node instalado (node –version)
+•	mkdir – criar pasta 
+•	cd nomePasta
+•	npx create-next-app nomeProjeto (não instala global)
+•	cd nome Projeto
+•	code .
+•	npm run dev
+
+Primeiro Componente:
+
+•	
+
