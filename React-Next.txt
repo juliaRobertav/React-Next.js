@@ -1,0 +1,25 @@
+PS/BDO
+
+Next.js:
+
+•	https://nextjs.org/docs
+
+
+Node.js – Azure:
+•	https://learn.microsoft.com/en-us/azure/app-service/quickstart-nodejs
+
+•	https://azure.microsoft.com/pt-br/products/cosmos-db
+
+•	cosmos db (banco de dados azure)  - conexão do banco com o web-app
+
+
+React:
+•	https://react.dev/learn
+
+
+Bosch - Next + React:
+•	https://frok.ui.bosch.tech/
+
+
+•	Usuario: bosch
+	Senha: uneo2019
