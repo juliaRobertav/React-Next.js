@@ -108,7 +108,11 @@ Quando um componente precisa ser alterado, por exemplo, e essa alteração irá 
 
 {% embed url="https://www.youtube.com/watch?v=hd2B7XQAFls" %}
 
-### <mark style="background-color:purple;">Vi</mark>_<mark style="background-color:purple;">**te:**</mark>_
+{% embed url="https://youtu.be/ErjWNvP6mko?si=GueabJnF4wN3Y77C" %}
+
+{% embed url="https://youtu.be/MA3Ngo32qiI?si=vr_ljnLyQ6JuxA95" %}
+
+### <mark style="background-color:purple;">Vite:</mark>
 
 {% embed url="https://pt.vitejs.dev/guide/" %}
 
