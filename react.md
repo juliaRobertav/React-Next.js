@@ -179,3 +179,7 @@ State peretence ao componente, pode alterar mas dentro do componente
 **Extensão – ES7 + React/Redux/React-Native snippets** (criar códigos com alguns atalhos)
 
 * [Windows](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf): Ctrl+P
+
+{% embed url="https://upmostly.com/tutorials/react-onclick-event-handling-with-examples#call-function-after-clicking-button" %}
+
+{% embed url="https://legacy.reactjs.org/docs/handling-events.html" %}

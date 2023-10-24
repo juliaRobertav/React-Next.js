@@ -4,14 +4,21 @@
 
 ## Frontend
 
-#### <mark style="background-color:orange;">**HTML/CSS**</mark>
+#### <mark style="background-color:orange;">**HTML/CSS/JS**</mark>
 
-* [https://www.youtube.com/watch?v=Ejkb\_YpuHWs\&list=PLHz\_AreHm4dkZ9-atkcmcBaMZdmLHft8n](https://www.youtube.com/watch?v=Ejkb\_YpuHWs\&list=PLHz\_AreHm4dkZ9-atkcmcBaMZdmLHft8n)
+{% embed url="https://www.youtube.com/watch?v=Ejkb_YpuHWs&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n" %}
+
+{% embed url="https://www.w3schools.com/css/default.asp" %}
+
+{% embed url="https://www.w3schools.com/js/default.asp" %}
+
+{% embed url="https://www.w3schools.com/html/default.asp" %}
 
 ### <mark style="background-color:green;">Node.js</mark>
 
-* [https://learn.microsoft.com/en-us/azure/app-service/quickstart-nodejs](https://learn.microsoft.com/en-us/azure/app-service/quickstart-nodejs)
-* [https://azure.microsoft.com/pt-br/products/cosmos-db](https://azure.microsoft.com/pt-br/products/cosmos-db)
+{% embed url="https://learn.microsoft.com/en-us/azure/app-service/quickstart-nodejs" %}
+
+{% embed url="https://azure.microsoft.com/pt-br/products/cosmos-db" %}
 
 Antes de saber mais sobre o Next e React, é importante etender o que é o Node.js já que é importante tê-lo na hora da instalação.
 
@@ -36,7 +43,7 @@ Não vai ser influenciável no projeto, debe ser descartável, ou seja, a cada i
 
 ### <mark style="background-color:yellow;">Next</mark>
 
-* [https://nextjs.org/docs](https://nextjs.org/docs)
+{% embed url="https://nextjs.org/docs" %}
 
 **React** é a biblioteca para construção de aplicações frontend com Javascript.
 
@@ -103,7 +110,8 @@ Quando um componente precisa ser alterado, por exemplo, e essa alteração irá 
 
 ### <mark style="background-color:purple;">Vi</mark>_<mark style="background-color:purple;">**te:**</mark>_
 
-* [https://pt.vitejs.dev/guide/](https://pt.vitejs.dev/guide/)
+{% embed url="https://pt.vitejs.dev/guide/" %}
+
 * npm create vite@latest – executa os scripts do vite na sua última versão
 * cd nomeProjeto
 * npm install
