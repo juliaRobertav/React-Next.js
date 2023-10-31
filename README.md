@@ -86,6 +86,8 @@ Alguns dos principais Next.js as características incluem:
 
 {% embed url="https://medium.com/tableless/o-guia-completo-do-react-e-o-seu-ecossistema-b31a10ecd84f" %}
 
+{% embed url="https://www.hostinger.com.br/tutoriais/o-que-e-react-javascript" %}
+
 * npx create-react-app nomeProjeto
 * cd nomeProjeto
 * npm start
